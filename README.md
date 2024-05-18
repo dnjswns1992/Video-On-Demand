@@ -12,11 +12,10 @@ Storage for video projects
 5. Community building
 * A community ecosystem was established to revitalize the community among users.
 
+
+
 |Repository|Description|URL|
 |:---|:---|:---|
-|awm-v2-proxy|Protects the gateway from external access.|[link](https://github.com/ahr-i/awm-v2-proxy)|
-|awm-v2-gateway|Serves as the initial point of contact for clients.|[link](https://github.com/ahr-i/awm-v2-gateway)|
-|awm-v2-authentication-server|Handles client authentication and issues or validates JWT tokens.|[link](https://github.com/ahr-i/awm-v2-authentication-server)|
-|awm-v2-location-manager|Provides functions for querying, registering, and modifying information about places.|[link](https://github.com/ahr-i/awm-v2-location-manager)|
-|awm-v2-image-processing-server|We offer image processing services, including image-based location search.|[link](https://github.com/ahr-i/awm-v2-image-processing-server)|
-|awm-v2-community-server|Offers a community where users can write, view, and modify posts.|[link](https://github.com/ahr-i/awm-v2-community-server)|
+|Front end Server |It's a front-end server.|[link](https://github.com/ahr-i/awm-v2-proxy)|
+|back end Server |It's a back-end server.|[link](https://github.com/ahr-i/awm-v2-gateway)|
+
