@@ -11,3 +11,6 @@ Storage for video projects
 * We are going to rent a server from Amazon services for video streaming.
 5. Community building
 * A community ecosystem was established to revitalize the community among users.
+
+|Repository|Description|URL|
+|:---|:---|:---|
