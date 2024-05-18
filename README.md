@@ -13,9 +13,15 @@ Storage for video projects
 * A community ecosystem was established to revitalize the community among users.
 
 
+## 1. Repository Classification
+
 
 |Repository|Description|URL|
 |:---|:---|:---|
 |Front end Server |It's a front-end server.|[link](https://github.com/ahr-i/awm-v2-proxy)|
 |back end Server |It's a back-end server.|[link](https://github.com/ahr-i/awm-v2-gateway)|
 
+## 2. Team
+
+|Front-end|Back-end|
+|우희섭|우희섭|
