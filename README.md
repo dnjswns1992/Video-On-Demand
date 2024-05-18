@@ -23,5 +23,7 @@ Storage for video projects
 
 ## 2. Team
 
-|Front-end|Back-end|
-|우희섭|우희섭|
+|Front-end |back-end|
+|:---|:---|
+
+|WooHeeSeop |WooHeeseop|
