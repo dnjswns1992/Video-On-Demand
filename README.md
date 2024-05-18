@@ -25,5 +25,4 @@ Storage for video projects
 
 |Front-end |back-end|
 |:---|:---|
-
 |WooHeeSeop |WooHeeseop|
