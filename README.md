@@ -19,7 +19,7 @@ Storage for video projects
 |Repository|Description|URL|
 |:---|:---|:---|
 |Front end Server |It's a front-end server.|[link](https://github.com/dnjswns1992/Vod-Frond-end-Server)|
-|back end Server |It's a back-end server.|[link](https://github.com/ahr-i/awm-v2-gateway)|
+|back end Server |It's a back-end server.|[link](https://github.com/dnjswns1992/Vod-Back-End)|
 
 ## 2. Team
 
